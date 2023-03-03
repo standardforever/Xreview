@@ -1,0 +1,10 @@
+1. For the feedback the "apk_id" is the id for the upload file from the user
+2. The status most be either "pending", "active", "completed"
+3. assign_to is the person the task is assigned to it can be none
+4. you can chose not to assign it to anyone when creating the feedback
+5. Please reading the instruction in the readme file for assigning a feedback
+6. Note to assign a feedback you need the feedback_id and the staff_id
+7. To unassign feedback, the staff that assigned the feedback to himself will be the one to unassign it back not other users.
+8. Note to add a review(comment, or image) to a feedback is the person assigne to it will be able to add a review(commnet or image)
+9. In the /feedback_status/<id> endpoint it gives the admin priveledge to change everyones status
+

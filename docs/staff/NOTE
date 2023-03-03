@@ -1,0 +1,4 @@
+1. To create a new staff user "role" most be an admin
+2. To delete a staff user "role" most be an admin
+3. role field most be either "staff" or "admin"
+4. Always remember to add your Authorization header to access protected route
